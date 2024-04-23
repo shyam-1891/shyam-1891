@@ -5,6 +5,9 @@
 - ⚡ Fun fact: The journey of a thousand miles begins with a single step.
 - 💬 Druapl Profile (https://www.drupal.org/u/shyam_bhatt)
 - 📫 Work Summary (https://shyam-bhatt-cv.netlify.app/)
+
+☁️🤙💪
+
 <!--
 **shyam-1891/shyam-1891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
