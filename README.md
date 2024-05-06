@@ -2,7 +2,7 @@
 - 🔭 I’m currently working as a Senior Software Engineer at Axelerant
 - 🌱 Senior Developer | Drupal Frontend | Acquia Certified Drupal 9 Front End | Acquia Certified Site Studio 6 Site Builder
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: The journey of a thousand miles begins with a single step.
+- ⚡ The journey of a thousand miles begins with a single step.
 - 💬 Druapl Profile (https://www.drupal.org/u/shyam_bhatt)
 - 📫 Work Summary (https://shyam-bhatt-cv.netlify.app/)
 
